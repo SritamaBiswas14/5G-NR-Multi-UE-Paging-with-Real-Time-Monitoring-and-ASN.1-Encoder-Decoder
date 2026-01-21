@@ -1,5 +1,3 @@
-# 📗 README.md
-
 # **5G NR Multi-UE Paging with Real-Time Monitoring and ASN.1 Encoder/Decoder**
 
 ---
