@@ -177,7 +177,7 @@ sudo chmod 1777 /tmp
 UE  | IMSI            | IP         | NetNS
 ----|-----------------|------------|-------
 UE1 | 001010123456780 | 10.45.0.2  | ue1
-UE2 | 001010123456781 | 10.45.0.3  | ue2# 📗 README.md
+UE2 | 001010123456781 | 10.45.0.3  | ue2
 
 # **5G NR Multi-UE Paging with Real-Time Monitoring and ASN.1 Encoder/Decoder**
 
