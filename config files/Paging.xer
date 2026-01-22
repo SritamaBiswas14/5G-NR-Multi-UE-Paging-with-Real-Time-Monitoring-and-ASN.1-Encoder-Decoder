@@ -1,0 +1,11 @@
+<Paging>
+    <pagingRecordList>
+        <PagingRecord>
+            <ue-Identity>
+                <ng-5G-S-TMSI>
+                    000000010010001101000101011001111000100110101011
+                </ng-5G-S-TMSI>
+            </ue-Identity>
+        </PagingRecord>
+    </pagingRecordList>
+</Paging>
