@@ -1,0 +1,19 @@
+Paging DEFINITIONS AUTOMATIC TAGS ::= BEGIN
+
+Paging ::= SEQUENCE {
+    pagingRecordList PagingRecordList
+}
+
+PagingRecordList ::= SEQUENCE (SIZE(1..32)) OF PagingRecord
+
+PagingRecord ::= SEQUENCE {
+    ue-Identity UE-Identity
+}
+
+UE-Identity ::= CHOICE {
+    imsi IMSI
+}
+
+IMSI ::= OCTET STRING (SIZE(15))
+
+END
